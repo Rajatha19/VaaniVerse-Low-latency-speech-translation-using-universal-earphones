@@ -3,10 +3,13 @@
 **Break language barriers with AI-powered, noise-resistant translation on standard earphones**
 
 ## Key Features
-- 🚀 **Real-time** Hindi ↔ English ↔ Kannada translation (<500ms latency)
-- 🛡️ **Noise-resistant** (works in markets/traffic via deep learning filters)
-- 🧠 **Agentic AI** adapts to accents/slang and improves with use
-- 💸 **Cost-effective** (works with regular earphones + smartphone)
+Real-Time Translation: Seamless Hindi ↔ English ↔ Kannada voice translation with latency under 500ms
+
+voise isolation: Performs accurately even in noisy environments (e.g., traffic, markets) using deep learning-based noise reduction
+
+Adaptive AI: Continuously learns and adapts to regional accents and informal speech/slang through agentic intelligence
+
+Affordable & Accessible: Works with standard earphones and smartphones—no specialized hardware required
 
 ## 🚀 Quick Start
 
