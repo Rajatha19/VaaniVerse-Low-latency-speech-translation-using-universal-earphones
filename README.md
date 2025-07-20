@@ -6,7 +6,6 @@
 - 🚀 **Real-time** Hindi ↔ English ↔ Kannada translation (<500ms latency)
 - 🛡️ **Noise-resistant** (works in markets/traffic via deep learning filters)
 - 🧠 **Agentic AI** adapts to accents/slang and improves with use
-- 📴 **Offline+Online** modes (lightweight edge AI + cloud fallback)
 - 💸 **Cost-effective** (works with regular earphones + smartphone)
 
 ## 🚀 Quick Start
@@ -23,7 +22,7 @@
 
 ### Installation
 1. ```bash
-   git clone https://github.com/basantiroomie/VaaniVerse.git
+   git clone https://github.com/Rajatha19/VaaniVerse-low-latency-speech-translation-using-universal-earphones.git
    ```
 2. ```bash
    cd VaaniVerse
